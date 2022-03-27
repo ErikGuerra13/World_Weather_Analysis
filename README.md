@@ -1,0 +1,2 @@
+# World_Weather_Analysis
+-- The purpose of this repository is to demonstrate my abilities to work with API's in pandas. I created a script that will pull information from different API's such as google API and openweatherAPI to retreive weather data, cities located near a range of random longitude and latitudes, and also locate hotels that are near our list of cities. Finally, by using googles directions API we were able to create a travel itinerary map. 
